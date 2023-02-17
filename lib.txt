@@ -1,0 +1,6 @@
+streamlit
+pandas
+pomegranate
+plotly
+matplotlib
+hmmlearn
