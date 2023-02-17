@@ -1,7 +1,7 @@
-streamlit=1.18.1
-pandas=1.5.3
+streamlit==1.18.1
+pandas==1.5.3
 cython
-pomegranate=0.14.8
-plotly=5.13.0
-matplotlib=3.7.0
-hmmlearn=0.2.8
+pomegranate==0.14.8
+plotly==5.13.0
+matplotlib==3.7.0
+hmmlearn==0.2.8
